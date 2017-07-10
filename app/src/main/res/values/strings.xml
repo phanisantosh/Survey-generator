@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Surgen</string>
+    <string name="category_generate">Generate a Survey</string>
+    <string name="category_take">Take a Survey</string>
+    <string name="category_responses">View the Responses</string>
+    <string name="category_report">Report an Issue</string>
+    <string name="title_activity_generate_survey">GenerateSurvey</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_new_survey">NewSurvey</string>
+
+    <string name="question_descriptive">Descriptive</string>
+
+    <!-- Label for dropdown menu option if the pet is male [CHAR LIMIT=20] -->
+    <string name="question_multiplechoice">Multiple choice</string>
+
+    <!-- Label for dropdown menu option if the pet is female [CHAR LIMIT=20] -->
+    <string name="question_rating">"Rating"</string>
+</resources>

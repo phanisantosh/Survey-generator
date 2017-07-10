@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_gender_options">
+        <item>@string/question_descriptive</item>
+        <item>@string/question_multiplechoice</item>
+        <item>@string/question_rating</item>
+    </string-array>
+</resources>
